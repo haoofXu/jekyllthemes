@@ -1,5 +1,7 @@
 name: Jekyll Themes
-url: http://matt.harzewski.com
+repository: github_username/xuuold.github.io
+github_url: https://github.com/xuuold
+url: https://xuuold
 description: Insert tagline here
 
 permalink: /themes/:title/
